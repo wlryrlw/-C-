@@ -12,9 +12,9 @@ int main()
 		}	
 	}
 	if(pe == 1){
-		printf("%d²»ÊÇËØÊı",x);
+		printf("%dä¸æ˜¯ç´ æ•°",x);
 	}else{
-		printf("%dÊÇËØÊı",x);
+		printf("%dæ˜¯ç´ æ•°",x);
 	}
 	
 	return 0;
